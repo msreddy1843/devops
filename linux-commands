@@ -1,0 +1,5 @@
+mkdir --- creating a directory
+mkdir -p a/b/c --- creating multiple directories at a time
+cd -- change directory
+cp -- copy a file one location to another location
+cp -r <dir> <dest> --- copy entire directory recursively
