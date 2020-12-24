@@ -1,6 +1,9 @@
-mkdir --- creating a directory
-mkdir -p a/b/c --- creating multiple directories at a time
-cd -- change directory
-cp -- copy a file one location to another location
-cp -r <dir> <dest> --- copy entire directory recursively
-ls --it will show the list of files or directories 
+mkdir : creating a directory
+mkdir -p a/b/c : creating multiple directories at a time
+cd : change directory
+cp : copy a file one location to another location
+cp -r <dir> <dest> : copy entire directory recursively
+ls -- This command lists all the contents in the current working directory
+ls –l :-- Using ‘l’ flag, lists all the contents along with its owner settings, permissions & time stamp (long format)
+ls –a :-- Using ‘a’ flag, lists all the hidden contents in the specified directory
+grep -- This command searches for a particular string/ word in a text file. This is similar to “Ctrl+F” but executed via a CLI
